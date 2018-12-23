@@ -4,11 +4,11 @@
 //In object literal notation, an object is described as a
 //set of comma-separated name/value pairs enclosed in curly braces ({}).
 
-var myObjectLiteral = {
-    variableKey: variableValue,
-    functionKey: function () {
-    }
-}
+// var myObjectLiteral = {
+//     variableKey: variableValue,
+//     functionKey: function () {
+//     }
+// }
 
 //Object literals don't require instantiation using the new operator
 // but shouldn't be used at the start of a statement as the opening 
